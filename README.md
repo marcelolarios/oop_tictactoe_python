@@ -9,8 +9,15 @@ Episode 2 - Python<br />
 Episode 3 - PHP<br />
 Episode 4 - C++<br />
 
+<pre>
+*** Jogo da velha ***
 
+7|8|9		| | | |   jogador "x", sua vez
+4|5|6		| | | |
+1|2|3		| |o| |
 
+digite o nr: 
+</pre>
 
 
 
