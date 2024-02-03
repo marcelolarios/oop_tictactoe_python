@@ -8,7 +8,7 @@ Episode 1 - Java<br />
 Episode 2 - Python<br />
 Episode 3 - PHP<br />
 Episode 4 - C++<br />
-
+Episode 5 - Javascript<br />
 <pre>
 *** Jogo da velha ***
 
